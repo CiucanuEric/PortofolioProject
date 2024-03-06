@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Silkscreen', sans-serif;
+
+}
+.header-background{
+    width: 100%;
+    min-height: 20vh;
+    background: #000000;
+    display: flex;
+}
+.info-buttons
+{
+    display: flex;
+    position: absolute;
+    right:0;
+    width:400px;
+    height: 50px;
+    background: #00c200;
+    border-bottom-left-radius: 30px;
+    align-items: center;
+}
+.contact
+{
+    flex: 1;
+    margin: 0 10px 0 10px;
+}
+
+.block-background
+{
+    background: #000000;
+    width:100%;
+    height:80vh;
+}
+.introduction-allign
+{
+    position: relative;
+    display: flex;
+}
+.name-introduction-box
+{
+
+    position: relative;
+    width:50%;
+    padding: 0 0 0 15%;
+
+}
+.name
+{
+    color: #00c200;
+    position: relative;
+    font-size: 30px;
+    height:100px;
+    margin: 10px;
+    padding:10px;
+    border-color: #00c200;
+    border-style: solid;
+    border-width: 0 0 0 10px;
+}
+
+.Name_Container
+{
+
+}
+
+.small_introduction
+{
+    color: #00c200;
+    position: relative;
+    margin: 10px;
+    padding:10px;
+    border-color: #00c200;
+    border-style: solid;
+    border-width: 0 0 0 10px;
+}
+.github_projects
+{
+    color: #00c200;
+    width:20%;
+    padding:10px;
+    /*margin:10px 0 10px 0;*/
+    height: 630px;
+}
+.repo
+{
+    margin: 0 0 10px 0;
+    border-color: #00c200;
+    border-style: solid;
+    border-width: 0 10px 0 0;
+}
