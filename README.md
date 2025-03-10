@@ -27,7 +27,7 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 1.  Clone the repository:
     
     ```
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/CiucanuEric/portfolio-website.git
     ```
     
 2.  Navigate to the project folder:
