@@ -58,7 +58,7 @@ For any inquiries, reach out to me via:
 
 -   Email: magda0701@gmail.com
     
--   LinkedIn: [Ciucanu Eric](https://www.linkedin.com/in/eric-ciucanu-457003286/)
+-   LinkedIn: [Eric Ciucanu](https://www.linkedin.com/in/eric-ciucanu-457003286/)
 
 ----------
 
