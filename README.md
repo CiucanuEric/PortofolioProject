@@ -60,10 +60,6 @@ For any inquiries, reach out to me via:
     
 -   LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eric-ciucanu-457003286/)
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
-
 ----------
 
 Thank you for visiting my portfolio! 🚀
